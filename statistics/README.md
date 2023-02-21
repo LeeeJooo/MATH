@@ -10,8 +10,8 @@
 | week3 | 2023. | [4. 일원배치 분산분석(One-way ANOVA) (8)](https://www.youtube.com/playlist?list=PLalb9l0_6WArk6oZej3KzduU8TRQA9gcV) |
 | week4 | 2023. | [5. 이원배치 분산분석(Two-way ANOVA) (6)](https://www.youtube.com/playlist?list=PLalb9l0_6WAr71hsuLImTs-Zhss5-hbHU) |
 | week5 | 2023. | [6. Contrasts Test(대비검정) (6)](https://www.youtube.com/playlist?list=PLalb9l0_6WAp3BqnmxPQdSFOe0XsVUkDx) |
-| week6 | 2023. | [7. 반복측정 분산분석(Repeated Measure ANOVA) (7)]() |
-| week7 | 2023. | [8. 삼원배치 분산분석(Three-way ANOVA) (2)](https://www.youtube.com/playlist?list=PLalb9l0_6WArIxX3SFeYvlA8ZXI9ZinYt) |
+| week6 | 2023. | [7. 반복측정 분산분석(Repeated Measure ANOVA) (7)](https://www.youtube.com/playlist?list=PLalb9l0_6WArIxX3SFeYvlA8ZXI9ZinYt) |
+| week7 | 2023. | [8. 삼원배치 분산분석(Three-way ANOVA) (2)](https://www.youtube.com/playlist?list=PLalb9l0_6WAoy_hDxqRgQpwCYaxgTTEHb) |
 | week8 | 2023. | [9. 카이제곱 검정 (5)](https://www.youtube.com/playlist?list=PLalb9l0_6WAoZ2vGLl7LFnCoJzBlWPceP) |
 | week9 | 2023. | [10. 회귀분석(Ordinary Least Square : OLS) (10)](https://www.youtube.com/playlist?list=PLalb9l0_6WApDZGksoHt474fy1U35Bv-T) |
 | week10 | 2023. | [11. 조절효과와 매개효과 (4)](https://www.youtube.com/playlist?list=PLalb9l0_6WAoEkpzascGwbPvCbHDrPA7u) |
